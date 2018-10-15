@@ -7,3 +7,15 @@ brew services start neo4j
 brew services stop neo4j
 ```
 默认安装的是3.4.5版本
+
+## 实战
+### 资料地址
+http://neo4j.com.cn/public/cypher/neo4j_cql_create_node.html
+http://localhost:7474
+
+连接地址：bolt://localhost:7687
+默认账号:neo4j
+默认密码：neo4j
+开发密码: 1234567890 (修改后)
+
+
