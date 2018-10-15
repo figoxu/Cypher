@@ -21,4 +21,4 @@ http://localhost:7474
 开发密码: 1234567890 (修改后)
 
 ### 官方范例
-[ ./movieGraph/Insert.md ]: 数据插入
+[  数据插入 ](./movieGraph/Insert.md)
