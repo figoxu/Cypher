@@ -20,6 +20,10 @@ http://localhost:7474
 默认密码：neo4j
 开发密码: 1234567890 (修改后)
 
+输入 :help 在网站顶部的输入框里，可以得到命令帮助
+
 ### 官方范例
 [  数据插入 ](./movieGraph/Insert.md)
 [  查找 ](./movieGraph/Find.md)
+[  搜索 ](./movieGraph/Query.md)
+
