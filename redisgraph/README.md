@@ -19,3 +19,9 @@ GRAPH.QUERY MotoGP "MATCH (r:Rider)-[:rides]->(t:Team) WHERE t.name = 'Yamaha' R
 ```
  GRAPH.QUERY MotoGP "MATCH (r:Rider)-[:rides]->(t:Team {name:'Ducati'}) RETURN count(r)"
 ```
+
+## 关停Docker服务
+```
+docker ps
+docker stop a95f089bc9c6
+```
