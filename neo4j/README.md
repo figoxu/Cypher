@@ -28,3 +28,4 @@ http://localhost:7474
 [  搜索 ](./movieGraph/Query.md)
 [  解题 ](./movieGraph/Solve.md)
 [  推荐 ](./movieGraph/Recommend.md)
+[  清理数据 ](./movieGraph/Del.md)
