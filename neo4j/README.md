@@ -29,3 +29,6 @@ http://localhost:7474
 [  解题 ](./movieGraph/Solve.md)
 [  推荐 ](./movieGraph/Recommend.md)
 [  清理数据 ](./movieGraph/Del.md)
+
+### Cypher文档
+[ Neo4j开发文档 ](https://neo4j.com/docs/developer-manual/current/cypher/#cypher-intro)
