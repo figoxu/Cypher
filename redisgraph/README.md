@@ -25,3 +25,8 @@ GRAPH.QUERY MotoGP "MATCH (r:Rider)-[:rides]->(t:Team) WHERE t.name = 'Yamaha' R
 docker ps
 docker stop a95f089bc9c6
 ```
+
+## 扩展阅读
+[ RedisGraph重磅推出: 作为Redis模块的高性能内存图数据库 ]( https://www.zybuluo.com/Rays/note/1079251 )
+[ RedisGraph Python 实现 ]( https://blog.csdn.net/sinat_32651363/article/details/79964787 )
+
