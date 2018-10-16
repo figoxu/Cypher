@@ -27,3 +27,4 @@ http://localhost:7474
 [  查找 ](./movieGraph/Find.md)
 [  搜索 ](./movieGraph/Query.md)
 [  解题 ](./movieGraph/Solve.md)
+[  推荐 ](./movieGraph/Recommend.md)
