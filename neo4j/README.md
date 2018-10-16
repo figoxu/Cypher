@@ -26,4 +26,4 @@ http://localhost:7474
 [  数据插入 ](./movieGraph/Insert.md)
 [  查找 ](./movieGraph/Find.md)
 [  搜索 ](./movieGraph/Query.md)
-
+[  解题 ](./movieGraph/Solve.md)
